@@ -7,27 +7,23 @@ Project is Flutter based and can be compiled for Windows, Linux, OS X, IOS, Andr
 
 ## Screenshots
 
-1. Mobile main and liked items pages. Here are a generated word, like button and next button. Liked
-   items shows the list of liked items with dislike buttons.
- 
-   <div style="display: flex; justify-content: space-between;">
-      <div style="width: 45%;">
-         <img src="doc/namer_mobile_main.png" alt="namer_mobile_main.png" style="max-height: 300px;">
-      </div>
-      <div style="width: 45%;">
-         <img src="doc/namer_mobile_liked_filled.png" alt="namer_mobile_liked_filled.png" style="max-height: 300px;">
-      </div>
-   </div>
+1. Mobile main page. Here are a generated word, like button and next button
 
-2. Desktop main page
+   ![namer_mobile_main.png](doc/namer_mobile_main.png | height=500)
+
+2. Mobile liked words page. Already liked words and dislike buttons are here
+
+   ![namer_mobile_liked_filled.png](doc/namer_mobile_liked_filled.png | height=500)
+
+3. Desktop main page
 
    ![namer_pc_main.png](doc/namer_pc_main.png)
 
-3. Desktop empty liked page
+4. Desktop empty liked page
 
    ![namer_pc_liked_empty.png](doc/namer_pc_liked_empty.png)
 
-4. Desktop liked words page with liked items
+5. Desktop liked words page with liked items
 
    ![namer_pc_liked_filled.png](doc/namer_pc_liked_filled.png)
 
