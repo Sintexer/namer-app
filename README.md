@@ -9,23 +9,23 @@ Project is Flutter based and can be compiled for Windows, Linux, OS X, IOS, Andr
 
 1. Mobile main page. Here are a generated word, like button and next button
 
-   ![namer_mobile_main.png](doc/namer_mobile_main.png | height=500)
+    <img src="doc/namer_mobile_main.png" alt="namer_mobile_main.png" height="500">
 
 2. Mobile liked words page. Already liked words and dislike buttons are here
 
-   ![namer_mobile_liked_filled.png](doc/namer_mobile_liked_filled.png | height=500)
+    <img src="doc/namer_mobile_liked_filled.png" alt="namer_mobile_liked_filled.png" height="500">
 
 3. Desktop main page
 
-   ![namer_pc_main.png](doc/namer_pc_main.png)
+    <img src="doc/namer_pc_main.png" alt="namer_pc_main.png" height="500">
 
 4. Desktop empty liked page
 
-   ![namer_pc_liked_empty.png](doc/namer_pc_liked_empty.png)
+    <img src="doc/namer_pc_liked_empty.png" alt="namer_pc_liked_empty.png" height="500">
 
 5. Desktop liked words page with liked items
 
-   ![namer_pc_liked_filled.png](doc/namer_pc_liked_filled.png)
+    <img src="doc/namer_pc_liked_filled.png" alt="namer_pc_liked_filled.png" height="500">
 
 ## Running the app
 
