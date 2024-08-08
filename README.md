@@ -1,31 +1,35 @@
 # Namer app
 
-Namer generates words consisting from two nouns with a possibility to like a word 
+Namer generates words consisting from two nouns with a possibility to like a word
 or generate next one. It also shows liked words as a list and allows to unlike any.
 
 Project is Flutter based and can be compiled for Windows, Linux, OS X, IOS, Android and Web.
 
 ## Screenshots
 
-1. Mobile main page. Here are a generated word, like button and next button
+1. Mobile main and liked items pages. Here are a generated word, like button and next button. Liked
+   items shows the list of liked items with dislike buttons.
+ 
+   <div style="display: flex; justify-content: space-between;">
+      <div style="width: 45%;">
+         <img src="doc/namer_mobile_main.png" alt="namer_mobile_main.png" style="max-height: 300px;">
+      </div>
+      <div style="width: 45%;">
+         <img src="doc/namer_mobile_liked_filled.png" alt="namer_mobile_liked_filled.png" style="max-height: 300px;">
+      </div>
+   </div>
 
-    ![namer_mobile_main.png](doc/namer_mobile_main.png)
+2. Desktop main page
 
-2. Mobile liked words page. Already liked words and dislike buttons are here
+   ![namer_pc_main.png](doc/namer_pc_main.png)
 
-    ![namer_mobile_liked_filled.png](doc/namer_mobile_liked_filled.png)
+3. Desktop empty liked page
 
-3. Desktop main page
+   ![namer_pc_liked_empty.png](doc/namer_pc_liked_empty.png)
 
-    ![namer_pc_main.png](doc/namer_pc_main.png)
+4. Desktop liked words page with liked items
 
-4. Desktop empty liked page
-
-    ![namer_pc_liked_empty.png](doc/namer_pc_liked_empty.png)
-
-5. Desktop liked words page with liked items
-
-    ![namer_pc_liked_filled.png](doc/namer_pc_liked_filled.png)
+   ![namer_pc_liked_filled.png](doc/namer_pc_liked_filled.png)
 
 ## Running the app
 
